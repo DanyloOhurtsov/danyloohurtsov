@@ -1,4 +1,4 @@
-<h1 align="center">‎‎Danylo Ohurtsov <br/>[Next.js Developer]</h1>
+<h1 align="center">‎‎Danylo Ohurtsov <br/>[Front end Developer]</h1>
 
 ###
 
